@@ -38,3 +38,4 @@ https://tenor.com/pt-BR/view/cat99-cat999-cat88-cat888-gif-25415168
 </div>
 
 ![Snake animation](https://github.com/bibzr/bibzr/blob/output/github-contribution-grid-snake.svg)
+--!>
