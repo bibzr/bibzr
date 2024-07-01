@@ -1,6 +1,6 @@
 ## Oiiii! 👋
 
-# Olá, me chamo Beatriz Oliveira ! 
+# Me chamo Bea Oliveira ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando Antifraudes e Cibersegurança 
@@ -11,15 +11,12 @@
 https://tenor.com/pt-BR/view/cat99-cat999-cat88-cat888-gif-25415168
 
 - 📒 Estou aprendendo: 
-            <i class="devicon-googlecloud-plain"></i>
-          
-            <i class="devicon-java-plain-wordmark"></i>
-          
-            <i class="devicon-javascript-plain"></i>
-          
-            <i class="devicon-python-plain-wordmark"></i>
-          
-            <i class="devicon-vscode-plain"></i>
+  <i class="devicon-googlecloud-plain"></i>
+  <i class="devicon-java-plain-wordmark"></i>        
+  <i class="devicon-javascript-plain"></i>
+  <i class="devicon-python-plain-wordmark"></i>
+  <i class="devicon-vscode-plain"></i>
+
 ## Contatos:
 
 <div>
@@ -33,5 +30,3 @@ https://tenor.com/pt-BR/view/cat99-cat999-cat88-cat888-gif-25415168
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/bibzr/bibzr/blob/output/github-contribution-grid-snake.svg)
