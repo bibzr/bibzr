@@ -3,10 +3,11 @@
 # Me chamo Bea Oliveira ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando Antifraudes e Cibersegurança 
-- 👯 Estou procurando colaborar em projetos antifraudes
+- 🔭 Atualmente estou trabalhando Antifraude e Cibersegurança
+- 👩‍💻 Sou formada em Cyber Defense e estou fazendo MBA em Gestão de Tecnologia da Informação
+- 👯 Estou procurando colaborar em projetos antifraude ou que me despertem um brilho nos olhos
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: tenho 6 gatos, amo eles
+- ⚡ Curiosidade: tenho 4 gatos, amo eles
 
 https://tenor.com/pt-BR/view/cat99-cat999-cat88-cat888-gif-25415168
 
