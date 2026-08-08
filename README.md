@@ -13,7 +13,9 @@ Cyber Defense Graduate | Risk & Responsible Gaming Analyst | Trust & Safety | Fr
 
 ## 📒 Conhecimentos:
 
-<img width="640" height="640" alt="jira (1)" src="https://github.com/user-attachments/assets/41e5bdb0-5907-413d-8892-498f7d89b00a" />
+<img width="30" height="30" alt="jira (1)" src="https://github.com/user-attachments/assets/b69cbd2b-7ac0-415a-ba47-6efc16e6d377" />
+<img width="30" height="30" alt="jira" src="https://github.com/user-attachments/assets/849946cb-ec47-4c7f-bf46-5945604e863b" />
+
   <i class="devicon-googlecloud-plain"></i>
   <i class="devicon-java-plain-wordmark"></i>        
   <i class="devicon-javascript-plain"></i>
