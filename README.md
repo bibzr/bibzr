@@ -16,16 +16,9 @@ Cyber Defense Graduate | Risk & Responsible Gaming Analyst | Trust & Safety | Fr
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: tenho 4 gatos, amo eles
 
-<img width="640" height="358" alt="cat99-cat999" src="https://github.com/user-attachments/assets/89b8e4d9-a1cb-4b88-8a1b-c5f813dcc9dc" />
-
 ## 📒 Conhecimentos:
-
-
   <i class="devicon-googlecloud-plain"></i>
   <i class="devicon-java-plain-wordmark"></i>        
   <i class="devicon-javascript-plain"></i>
   <i class="devicon-python-plain-wordmark"></i>
   <i class="devicon-vscode-plain"></i>
-
-## Contatos:
-      
