@@ -1,8 +1,7 @@
 ## Olá! 👋
 Eu sou a Beatriz Oliveira ! 
 Bem vindo ao meu perfil GitHub 👋
-<img width="1600" height="1200" alt="original-d1383b580a7a48535347238b8da72ea3" src="https://github.com/user-attachments/assets/7c6531e1-1e86-47a2-8eae-50fcef06adb8" />
-
+<img width="960" height="282" alt="original-d1383b580a7a48535347238b8da72ea3" src="https://github.com/user-attachments/assets/5234d9d0-1e34-4c6b-b634-b05e8e648dd9" />
 <div>
 <a href="https://instagram.com/zirtaeboli" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/bibzr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
