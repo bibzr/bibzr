@@ -13,9 +13,7 @@ Cyber Defense Graduate | Risk & Responsible Gaming Analyst | Trust & Safety | Fr
 
 ## 📒 Conhecimentos:
 
-<img width="30" height="30" alt="jira (1)" src="https://github.com/user-attachments/assets/b69cbd2b-7ac0-415a-ba47-6efc16e6d377" />
-<img width="30" height="30" alt="jira" src="https://github.com/user-attachments/assets/849946cb-ec47-4c7f-bf46-5945604e863b" />
-
+<img width="30" height="30" alt="jira (1)" src="https://github.com/user-attachments/assets/b69cbd2b-7ac0-415a-ba47-6efc16e6d377" /> <img width="30" height="30" alt="googlecloud" src="https://github.com/user-attachments/assets/de2a8e1b-f6d7-43f1-b963-9eb927a70c1a" /> <img width="30" height="30" alt="zendesk" src="https://github.com/user-attachments/assets/9970d0ce-28cc-43f2-874a-1a06b75f3e12" />
   <i class="devicon-googlecloud-plain"></i>
   <i class="devicon-java-plain-wordmark"></i>        
   <i class="devicon-javascript-plain"></i>
@@ -23,7 +21,6 @@ Cyber Defense Graduate | Risk & Responsible Gaming Analyst | Trust & Safety | Fr
   <i class="devicon-vscode-plain"></i>
 
 ## Contatos:
-
 <div>
 <a href="https://instagram.com/zirtaeboli" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/bibzr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
