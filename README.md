@@ -1,5 +1,7 @@
 ## Olá! 👋
-Eu sou a Beatriz Oliveira ! 
+
+Eu sou a Beatriz Oliveira! 
+
 Bem vindo ao meu perfil GitHub 👋
 <img width="960" height="282" alt="original-d1383b580a7a48535347238b8da72ea3" src="https://github.com/user-attachments/assets/5234d9d0-1e34-4c6b-b634-b05e8e648dd9" />
 <div>
