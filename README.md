@@ -1,4 +1,4 @@
-<img width="150" height="150" alt="jira" src="https://github.com/user-attachments/assets/00a21878-fd33-435e-9052-bad3f2806e3f" />## Olá! 👋
+## Olá! 👋
 Eu sou a Beatriz Oliveira ! 
 Bem vindo ao meu perfil GitHub 👋
 
@@ -12,6 +12,7 @@ Cyber Defense Graduate | Risk & Responsible Gaming Analyst | Trust & Safety | Fr
 <img width="640" height="358" alt="cat99-cat999" src="https://github.com/user-attachments/assets/89b8e4d9-a1cb-4b88-8a1b-c5f813dcc9dc" />
 
 - 📒 Conhecimentos:
+  <img width="150" height="150" alt="jira" src="https://github.com/user-attachments/assets/00a21878-fd33-435e-9052-bad3f2806e3f" /> 
   <i class="devicon-googlecloud-plain"></i>
   <i class="devicon-java-plain-wordmark"></i>        
   <i class="devicon-javascript-plain"></i>
