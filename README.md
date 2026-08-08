@@ -11,7 +11,7 @@ Cyber Defense Graduate | Risk & Responsible Gaming Analyst | Trust & Safety | Fr
 
 <img width="640" height="358" alt="cat99-cat999" src="https://github.com/user-attachments/assets/89b8e4d9-a1cb-4b88-8a1b-c5f813dcc9dc" />
 
-##📒 Conhecimentos:
+## 📒 Conhecimentos:
 
 <img width="50" height="50" alt="zendesk" src="https://github.com/user-attachments/assets/57736892-ea8f-41a9-b35f-da7040a5aa56" /> <img width="50" height="50" alt="jira" src="https://github.com/user-attachments/assets/00a21878-fd33-435e-9052-bad3f2806e3f" /> <img width="50" height="50" alt="javascript" src="https://github.com/user-attachments/assets/98f725f1-e252-4059-b134-4a62c7bd45ee" /> <img width="50" height="50" alt="dashlane" src="https://github.com/user-attachments/assets/8605711b-2127-428f-9be9-9f7b0aeb6a74" /> <img width="50" height="50" alt="googlecloud" src="https://github.com/user-attachments/assets/75a84e75-0134-482d-b505-40be6589f8ac" />
   <i class="devicon-googlecloud-plain"></i>
